@@ -70,7 +70,7 @@
     "jest": "^23.6.0",
     "mini-css-extract-plugin": "^0.4.4",
     "mongodb": "^3.1.8",
-    "mongoose": "^5.3.9",
+    "mongoose": "^5.7.5",
     "node-sass": "^4.9.4",
     "prop-types": "^15.6.2",
     "react": "^16.6.0",
